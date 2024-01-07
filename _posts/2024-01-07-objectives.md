@@ -5,4 +5,4 @@
 - [ ] Thành thạo chạy xe hơi
 - [ ] Biết bơi hoặc học boxing
 - [ ] Travel to Japan
-- [ ] Tiềm được công việc liên quan đến AI/ML/Data
+- [ ] Tim được công việc liên quan đến AI/ML/Data
