@@ -1,2 +1,5 @@
 .bundle/*
 vendor/*
+_site/*
+index_files/*
+index.html

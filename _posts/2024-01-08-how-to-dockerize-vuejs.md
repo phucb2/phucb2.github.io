@@ -1,3 +1,3 @@
 # How to deploy VueJS
 
-![Image](./assets/cat.jpeg)
+![Image](/docs/assets/cat.jpeg)
